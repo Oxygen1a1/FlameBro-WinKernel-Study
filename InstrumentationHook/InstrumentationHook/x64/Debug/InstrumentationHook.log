@@ -1,0 +1,8 @@
+﻿  Building 'InstrumentationHook' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  DriverMain.cpp
+  InstrumentationHook.vcxproj -> D:\Data(所有学习的写过资料都在这)\五期下资料\InstrumentationHook\x64\Debug\InstrumentationHook.sys
+  Done Adding Additional Store
+  Successfully signed: D:\Data()\\InstrumentationHook\x64\Debug\InstrumentationHook.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
